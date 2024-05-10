@@ -1,6 +1,6 @@
 .alicard {
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 0px;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -28,5 +28,11 @@
 @media screen and (max-width: 780px) {
     .alicard {
         font-size: 0.8em; /* Tamaño de fuente reducido */
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .alicard {
+        font-size: 0.7em; /* Tamaño de fuente reducido */
     }
   }
