@@ -1,0 +1,25 @@
+.alicard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Esto separará el título y el precio */
+}
+
+.titulo {
+    margin: 0;
+    text-align: left; /* Alinea el texto del título a la izquierda */
+}
+
+.separator {
+    width: 2px;
+    height: 100%;
+    background-color: #ccc;
+    margin: 0 10px;
+}
+
+.precio {
+    margin: 0;
+    text-align: right; /* Alinea el texto del precio a la derecha */
+}

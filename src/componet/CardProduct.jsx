@@ -3,7 +3,6 @@ import Card from "./Card";
 import PreciosAliMi from "./data/PreciosAliMi";
 
 
-
 const CardProduct = () => {
   return (
     <div className="CardProduct-container">
