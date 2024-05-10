@@ -23,3 +23,10 @@
     margin: 0;
     text-align: right; /* Alinea el texto del precio a la derecha */
 }
+
+
+@media screen and (max-width: 780px) {
+    .alicard {
+        font-size: 0.8em; /* Tamaño de fuente reducido */
+    }
+  }
