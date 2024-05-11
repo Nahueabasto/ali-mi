@@ -1,14 +1,13 @@
 import React from "react";
 import Card from "./Card";
-import PreciosAliMi from "./data/PreciosAliMi";
+import PreciosLaGringa from "./data/PreciosLaGringa";
 
-
-const CardProduct = () => {
-  return (
-    <div className="CardProduct-container">
-      <h3>Precios Ali-Mi</h3>
+const CardProductGringa = () => {
+    return (
+        <div className="CardProduct-container">
+        <h3>Precios La Gringa</h3>
       <div className="project-container">
-        {PreciosAliMi.map((val, ind) => {
+        {PreciosLaGringa.map((val, ind) => {
           return (
             <Card
               id={val.id}
@@ -19,8 +18,8 @@ const CardProduct = () => {
           );
         })}
       </div>
-    </div>
-  );
-};
+      </div>
+    );
+  };
 
-export default CardProduct;
+export default CardProductGringa;

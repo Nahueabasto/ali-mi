@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
+import NavBar from '../componet/NavBar';
 import CardProduct from '../componet/CardProduct';
+import CardProductGringa from '../componet/CardProductGringa';
 
 export default function Home(){
     useEffect(() => {
@@ -9,7 +11,9 @@ export default function Home(){
 
     return(
         <div>
+            <NavBar/>
           <CardProduct/>
+          <CardProductGringa/>
         </div>
     )
 }
