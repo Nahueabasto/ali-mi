@@ -62,14 +62,14 @@ const PreciosAliMi = [
       {
         id: 9,
       //   imgsr: [img],
-        titulo: "Tapa Empana de hojaldre Ali-Mi",
+        titulo: "Tapa Empanada de hojaldre Ali-Mi",
         precio: "$865",
         descripcion: "",
       },
       {
         id: 10,
       //   imgsr: [img],
-        titulo: "Tapa Empana de hojaldre Ali-Mi",
+        titulo: "Tapa Empanada de hojaldre Ali-Mi",
         precio: "$865",
         descripcion: "",
       },
@@ -82,13 +82,6 @@ const PreciosAliMi = [
       },
       {
         id: 12,
-      //   imgsr: [img],
-        titulo: "Tapa Empanda freir Ali-Mi",
-        precio: "$865",
-        descripcion: "",
-      },
-      {
-        id: 13,
       //   imgsr: [img],
         titulo: "Tapa Empanda freir Ali-Mi",
         precio: "$865",
