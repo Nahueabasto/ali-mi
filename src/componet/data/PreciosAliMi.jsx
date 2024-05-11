@@ -62,7 +62,7 @@ const PreciosAliMi = [
       {
         id: 9,
       //   imgsr: [img],
-        titulo: "Tapa Empanada de hojaldre Ali-Mi",
+        titulo: "Tarta de hojaldre Ali-Mi",
         precio: "$865",
         descripcion: "",
       },
