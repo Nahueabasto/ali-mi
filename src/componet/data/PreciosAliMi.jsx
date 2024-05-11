@@ -62,26 +62,19 @@ const PreciosAliMi = [
       {
         id: 9,
       //   imgsr: [img],
-        titulo: "Tarta de hojaldre Ali-Mi",
+        titulo: "Tapa Empanada de hojaldre Ali-Mi",
         precio: "$865",
         descripcion: "",
       },
       {
         id: 10,
       //   imgsr: [img],
-        titulo: "Tapa Empanada de hojaldre Ali-Mi",
-        precio: "$865",
-        descripcion: "",
-      },
-      {
-        id: 11,
-      //   imgsr: [img],
         titulo: "Tapa de Copetin Ali-Mi",
         precio: "$865",
         descripcion: "",
       },
       {
-        id: 12,
+        id: 11,
       //   imgsr: [img],
         titulo: "Tapa Empanda freir Ali-Mi",
         precio: "$865",
