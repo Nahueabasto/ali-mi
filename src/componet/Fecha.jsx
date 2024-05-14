@@ -5,7 +5,7 @@ const Fecha = () => {
 
     return(
         <div className="fecha">
-            <h2>Fecha: 06/05/2024</h2>
+            <h3>Fecha: 06/05/2024</h3>
         </div>
     )
     }
