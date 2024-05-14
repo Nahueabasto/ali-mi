@@ -5,8 +5,10 @@ import "./CardProduct.css";
 
 const CardProduct = () => {
   return (
-    <div className="CardProduct-container">
+    <div className="product-container">
+      <div className="price">
       <h2>Precios Ali-Mi</h2>
+      </div>
       <div className="project-container">
         {PreciosAliMi.map((val, ind) => {
           return (

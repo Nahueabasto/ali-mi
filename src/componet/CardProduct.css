@@ -1,13 +1,24 @@
+.product-container{
+  margin-bottom: 50px;
+}
+
 .project-heading {
     text-align: center;
     padding: 10rem 0 2rem 0;
+    margin-bottom: 20px;
   }
-
 
   .project-container {
     max-width: 500px;
     margin: auto;
+  }
 
+  .price{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
 
   @media screen and (max-width: 740px) {
