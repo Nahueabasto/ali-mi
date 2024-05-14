@@ -5,7 +5,7 @@ import PreciosLaGringa from "./data/PreciosLaGringa";
 const CardProductGringa = () => {
     return (
         <div className="CardProduct-container">
-        <h3>Precios La Gringa</h3>
+        <h2>Precios La Gringa</h2>
       <div className="project-container">
         {PreciosLaGringa.map((val, ind) => {
           return (

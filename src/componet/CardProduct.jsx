@@ -1,12 +1,12 @@
 import React from "react";
 import Card from "./Card";
 import PreciosAliMi from "./data/PreciosAliMi";
-
+import "./CardProduct.css";
 
 const CardProduct = () => {
   return (
     <div className="CardProduct-container">
-      <h3>Precios Ali-Mi</h3>
+      <h2>Precios Ali-Mi</h2>
       <div className="project-container">
         {PreciosAliMi.map((val, ind) => {
           return (
