@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import NavBar from '../componet/NavBar';
 import CardProduct from '../componet/CardProduct';
 import CardProductGringa from '../componet/CardProductGringa';
+import Fecha from '../componet/Fecha';
 
 export default function Home(){
     useEffect(() => {
@@ -12,6 +13,7 @@ export default function Home(){
     return(
         <div>
             <NavBar/>
+            <Fecha/>
           <CardProduct/>
           <CardProductGringa/>
         </div>
