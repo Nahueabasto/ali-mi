@@ -27,7 +27,7 @@ const PreciosAliMi = [
     {
         id: 4,
       //   imgsr: [img],
-        titulo: "Tallarines Espinaca/Morron Ali-Mi x 500grs.",
+        titulo: "Tallarines Espinaca/Morron x 500grs.",
         precio: "$1.310",
         descripcion: "",
       },
