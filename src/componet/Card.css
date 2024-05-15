@@ -1,11 +1,25 @@
-.alicard {
+/* .alicard {
     border: 1px solid #ccc;
     border-radius: 0px;
     padding: 10px;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Esto separará el título y el precio */
+    justify-content: space-between;  
     max-width: 1280px;
+} */
+
+.alicard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1280px;
+    background-color: #444444; /* Color de fondo más oscuro */
+    margin-bottom: 15px; /* Agrega espacio entre tarjetas */
+    color: #ffffff; /* Texto en color blanco */
+    font-size: 0.9em;
 }
 
 .titulo {

@@ -60,7 +60,7 @@ button:focus-visible {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Outfit', sans-serif; /* Cambia la fuente a "Outfit" */
 }
 
 body {
@@ -75,6 +75,7 @@ p,
 a {
   color: white;
   text-decoration: none;
+  font-family: 'Outfit', sans-serif; /* Aplica la fuente también a los elementos de texto */
 }
 
 ul {
@@ -83,7 +84,7 @@ ul {
 
 .btn {
   text-align: center;
-  padding: 2px 2px;
+  padding: 10px 20px; /* Ajusta el espaciado del botón */
   font-size: 1rem;
   text-transform: uppercase;
   background: rgb(214, 152, 214);
@@ -96,6 +97,7 @@ ul {
   border: 2px solid white;
   font-weight: 600;
   cursor: pointer;
+  font-family: 'Outfit', sans-serif; /* Aplica la fuente al botón */
 }
 
 .btn-light {
@@ -110,4 +112,3 @@ ul {
   border: 2px solid white;
   transition: 0.3s;
 }
-

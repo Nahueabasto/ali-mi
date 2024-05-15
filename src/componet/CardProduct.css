@@ -1,6 +1,12 @@
-.product-container{
+.product-container {
   margin-bottom: 35px;
+  background-color: #333333; /* Color de fondo más oscuro */
+  padding: 20px;
+  border-radius: 8px; /* Agrega bordes redondeados */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  color: #ffffff; /* Texto en color blanco */
 }
+
 
 .project-heading {
     text-align: center;
@@ -13,13 +19,15 @@
     margin: auto;
   }
 
-  .price{
+  .price {
     align-items: center;
     justify-content: center;
     display: flex;
     margin-top: 15px;
     margin-bottom: 15px;
-  }
+    color: #ffffff; /* Texto en color blanco */
+}
+
 
   @media screen and (max-width: 740px) {
     .project-container {
