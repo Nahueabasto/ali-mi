@@ -1,6 +1,4 @@
-
-
-const PreciosLaGringa = [
+const PreciosCombo4 = [
     {
       id: 1,
     //   imgsr: [img],
@@ -15,18 +13,25 @@ const PreciosLaGringa = [
       precio: "$1.063",
       descripcion: "",
     },
-    {
-      id: 3,
-    //   imgsr: [img],
-      titulo: "Empanadas Horno",
-      precio: "$1.063",
-      descripcion: "",
-    },
+    // {
+    //   id: 3,
+    // //   imgsr: [img],
+    //   titulo: "Empanadas Horno",
+    //   precio: "$1.063",
+    //   descripcion: "",
+    // },
     {
         id: 4,
       //   imgsr: [img],
+        titulo: "Empanadas Horno",
+        precio: "$1.063",
+        descripcion: "",
+      },
+      {
+        id: 5,
+      //   imgsr: [img],
         titulo: "TOTAL:",
-        precio: "$3.722",
+        precio: "$7.444",
         descripcion: "",
       },
     //   {
@@ -38,4 +43,4 @@ const PreciosLaGringa = [
     // },
   ];
   
-  export default PreciosLaGringa;
+  export default PreciosCombo4;
