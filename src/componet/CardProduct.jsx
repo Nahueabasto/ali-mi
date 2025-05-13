@@ -7,7 +7,7 @@ const CardProduct = () => {
   return (
     <div className="product-container">
       <div className="price">
-      <h2>Precios Ali-Mi</h2>
+      <h2>Combo  1</h2>
       </div>
       <div className="project-container">
         {PreciosAliMi.map((val, ind) => {

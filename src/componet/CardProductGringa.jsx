@@ -6,7 +6,7 @@ const CardProductGringa = () => {
     return (
         <div className="product-container">
           <div className="price">
-        <h2>Precios La Gringa</h2>
+        <h2>Combo 2</h2>
         </div>
       <div className="project-container">
         {PreciosLaGringa.map((val, ind) => {

@@ -5,7 +5,7 @@ const NavBar = () => {
 
 return(
     <div className="navbar">
-        <h1>Pastas Frescas Ali-Mi</h1>
+        <h1>Combos - Pastas Ali-Mi</h1>
     </div>
 )
 }

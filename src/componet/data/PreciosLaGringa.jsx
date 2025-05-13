@@ -4,38 +4,38 @@ const PreciosLaGringa = [
     {
       id: 1,
     //   imgsr: [img],
-      titulo: "Rav. Verdura Gringa x 600grs.",
-      precio: "$2.310",
+      titulo: "Tallarines",
+      precio: "$1.596",
       descripcion: "",
     },
     {
       id: 2,
     //   imgsr: [img],
-      titulo: "Tallarines Huevo Gringa x 500grs.",
-      precio: "$2.370",
+      titulo: "Tartas",
+      precio: "$1.063",
       descripcion: "",
     },
     {
       id: 3,
     //   imgsr: [img],
-      titulo: "Tapa Empanda Gringa",
-      precio: "$865",
+      titulo: "Empanadas Horno",
+      precio: "$1.063",
       descripcion: "",
     },
-    {
-        id: 4,
-      //   imgsr: [img],
-        titulo: "Tapa Tarta Gringa",
-        precio: "$865",
-        descripcion: "",
-      },
-      {
-        id: 5,
-      //   imgsr: [img],
-        titulo: "Tapa Freir Gringa",
-        precio: "$865",
-        descripcion: "",
-    },
+    // {
+    //     id: 4,
+    //   //   imgsr: [img],
+    //     titulo: "Tapa Tarta Gringa",
+    //     precio: "$865",
+    //     descripcion: "",
+    //   },
+    //   {
+    //     id: 5,
+    //   //   imgsr: [img],
+    //     titulo: "Tapa Freir Gringa",
+    //     precio: "$865",
+    //     descripcion: "",
+    // },
   ];
   
   export default PreciosLaGringa;
