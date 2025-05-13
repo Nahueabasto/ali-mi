@@ -6,7 +6,7 @@ const PreciosAliMi = [
     {
       id: 1,
     //   imgsr: [img],
-      titulo: "Ravioles",
+      titulo: "1 Ravioles",
       precio: "$2.915",
       descripcion: "",
     },
@@ -20,7 +20,7 @@ const PreciosAliMi = [
     {
       id: 2,
     //   imgsr: [img],
-      titulo: "Tallarines",
+      titulo: "1 Tallarines",
       precio: "$1.596",
       descripcion: "",
     },
@@ -55,14 +55,14 @@ const PreciosAliMi = [
       {
         id: 8,
       //   imgsr: [img],
-        titulo: "Tartas",
+        titulo: "1 Tartas",
         precio: "$1.063",
         descripcion: "",
       },
       {
         id: 9,
       //   imgsr: [img],
-        titulo: "Empanadas Horno",
+        titulo: "1 Empanadas Horno",
         precio: "$1.063",
         descripcion: "",
       },

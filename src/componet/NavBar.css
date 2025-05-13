@@ -28,3 +28,14 @@
 .logoeco {
     justify-self: center;
 }
+
+@media screen and (max-width: 881px) {
+  /* .navbar {
+      padding: 0rem 2rem;
+      
+      grid-template-columns: 1fr auto;
+      position: fixed;
+      z-index: 1000;
+  } */
+}
+/* grid-template-columns: auto 1fr auto; */

@@ -4,14 +4,14 @@ const PreciosCombo3 = [
     {
       id: 1,
     //   imgsr: [img],
-      titulo: "Ravioles",
-      precio: "$2.915",
+      titulo: "2 Ravioles",
+      precio: "$5.830",
       descripcion: "",
     },
     {
       id: 2,
     //   imgsr: [img],
-      titulo: "Tallarines",
+      titulo: "1 Tallarines",
       precio: "$1.596",
       descripcion: "",
     },
